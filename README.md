@@ -4,16 +4,12 @@ This script utilizes LangChain to summarize text extracted from a PDF file. Demo
 
 # Requirements:
 
-langchain
-fitz (PyMuPDF library)
-reportlab
-Installation:
+1. langchain
+2. fitz (PyMuPDF library)
+3. reportlab
+
+# Installation:
 pip install langchain fitz reportlab
-
-# Installation
-
-   ```bash
-   pip install langchain fitz reportlab
 
 #  Main Execution
 
